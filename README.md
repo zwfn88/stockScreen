@@ -1,0 +1,1 @@
+This is a stock screen tool, server side would contain 2 parts. First part is repsonsible for web scraping to get US stock financial data. The second part is a stock screen algorithm based on methods from Intelligent Investor and Rule #1. Front end component will display qualified stock and data.
